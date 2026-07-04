@@ -91,11 +91,6 @@ A CRUD-based task management application built with Node.js, Express.js, EJS, an
 
 ---
 
-# 📈 Contribution Graph
-
-[![Shubhendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhendra1101&theme=github-compact)](https://github.com/shubhendra1101)
-
----
 
 ## 🏆 Coding Profiles
 
